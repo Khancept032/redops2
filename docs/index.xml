@@ -3,22 +3,22 @@
   <channel>
     <title>Red Team 
  DevOps Project</title>
-    <link>http://example.org/</link>
+    <link>https://khancept032.github.io/redops2/</link>
     <description>Recent content on Red Team 
  DevOps Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Jan 2019 14:18:00 -0600</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://khancept032.github.io/redops2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dev Team</title>
-      <link>http://example.org/posts/devteam/</link>
+      <link>https://khancept032.github.io/redops2/posts/devteam/</link>
       <pubDate>Tue, 22 Jan 2019 14:18:00 -0600</pubDate>
       
-      <guid>http://example.org/posts/devteam/</guid>
+      <guid>https://khancept032.github.io/redops2/posts/devteam/</guid>
       <description>Janelle Cavazos
 Jacob Judd
 Jeffrey Blackard
@@ -31,10 +31,10 @@ We developed this using an AWS box that is running Hugo v0.53. This is used as o
     
     <item>
       <title>Ops Team</title>
-      <link>http://example.org/posts/opsteam/</link>
+      <link>https://khancept032.github.io/redops2/posts/opsteam/</link>
       <pubDate>Tue, 22 Jan 2019 14:18:00 -0600</pubDate>
       
-      <guid>http://example.org/posts/opsteam/</guid>
+      <guid>https://khancept032.github.io/redops2/posts/opsteam/</guid>
       <description>Abdul Khan
 Anthony Basile
 Brie Bracknett
@@ -47,10 +47,10 @@ We decided on using Pythonanywhere as our production environment, as it was a ea
     
     <item>
       <title>Project 1 - Red Team</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://khancept032.github.io/redops2/posts/my-first-post/</link>
       <pubDate>Mon, 21 Jan 2019 14:18:00 -0600</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://khancept032.github.io/redops2/posts/my-first-post/</guid>
       <description>GROUP PROJECT #1: Deploy a webapp, oldstyle
 The class will be divided into groups of 6–10 students each. These groups will be split into Dev and Ops teams. Each group is responsible to deliver a running Python webapp (e.g., Hyde, Hugo, etc.) by the due date. The application must be modified in some way so that the appearance of the interface is visibly different from the default code as published on GitHub.</description>
     </item>
