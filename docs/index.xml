@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red Team 
+ DevOps Project</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Red Team 
+ DevOps Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jan 2019 14:18:00 -0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dev Team</title>
+      <link>http://example.org/posts/devteam/</link>
+      <pubDate>Tue, 22 Jan 2019 14:18:00 -0600</pubDate>
+      
+      <guid>http://example.org/posts/devteam/</guid>
+      <description>Janelle Cavazos
+Jacob Judd
+Jeffrey Blackard
+Nathan Taylor
+Sean McKenney
+Stephanie Chheng
+We developed this using an AWS box that is running Hugo v0.53. This is used as our development box. It was easy to set up and free to use. Working together to build a website on AWS was a great learning experience and is interesting to see how development works without direct communication between both teams.
+¯\_(ツ)_/¯</description>
+    </item>
+    
+    <item>
+      <title>Ops Team</title>
+      <link>http://example.org/posts/opsteam/</link>
+      <pubDate>Tue, 22 Jan 2019 14:18:00 -0600</pubDate>
+      
+      <guid>http://example.org/posts/opsteam/</guid>
+      <description>Abdul Khan
+Anthony Basile
+Brie Bracknett
+Bryce Burwitz
+Eddie Alvarado
+Elys Truong
+William Nguyen
+We decided on using Pythonanywhere as our production environment, as it was a easy to use, and free service for the size project that we are committing to. Python anywhere has a simplistic basis for uploading files, and allowing WebApps to function on its system. Working as the Ops team was interesting, as it was a disconnect between the development of the code, and the final production phase.</description>
+    </item>
+    
+    <item>
+      <title>Project 1 - Red Team</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 21 Jan 2019 14:18:00 -0600</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>GROUP PROJECT #1: Deploy a webapp, oldstyle
+The class will be divided into groups of 6–10 students each. These groups will be split into Dev and Ops teams. Each group is responsible to deliver a running Python webapp (e.g., Hyde, Hugo, etc.) by the due date. The application must be modified in some way so that the appearance of the interface is visibly different from the default code as published on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
